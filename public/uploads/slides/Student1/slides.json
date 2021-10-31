@@ -1,0 +1,158 @@
+[
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_00.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_01.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_02.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_03.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_04.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_05.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_06.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_07.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_08.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_09.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_10.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ],
+    [
+        {
+            "t": "addImgBG",
+            "draw": "0",
+            "url": "uploads/slides/Student1/slides/page_11.jpg",
+            "d": [
+                2200,
+                1700,
+                200,
+                200
+            ]
+        }
+    ]
+]

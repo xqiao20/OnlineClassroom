@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ocmanager",
+    "password": "OCmanagerPASS",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "ocmanager",
+    "password": "OCmanagerPASS",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "ocmanager",
+    "password": "OCmanagerPASS",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}

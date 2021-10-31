@@ -1,0 +1,5 @@
+{ 
+  "AWS_REGION": "us-east-2",
+  "STARTUP_SIGNUP_TABLE": "classroom-users",
+  "NEW_SIGNUP_TOPIC": ""
+}
